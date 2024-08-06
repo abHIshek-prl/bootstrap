@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+   
+}
+
+.back{
+    height: 800px;
+    width: 100%;
+    background-image: url(images/4e3ca65ad6f79fa319238c87eaf99a19.jpg);
+    background-size: 100%;
+    box-sizing: border-box;
+    
+}
+
+.shade{
+
+    height: 800px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.621);
+
+}
+
+.rsdlogo{
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+
+nav .nav-space{
+    
+    background-color: rgb(164, 15, 15) !important;
+    position: fixed !important;
+    
+} 
+
+.eng{
+    margin-left: 300px;
+}
+
+.gradient{
+    background-image: linear-gradient(to right, red , rgb(244, 41, 207)) !important;
+    color: white !important;
+    margin-bottom: 20px;
+    margin-right: 20px;
+
+}
+
+.gradient:hover{
+    background-color: rgb(233, 16, 16) !important;
+}
+
+.btn2{
+    height: 32px;
+    width: 30px;
+    border: 0;
+    background-color:transparent;
+    margin-top: 15px;
+    margin-right: 30px;
+}
+
+
+/* --------------------------------------------------------------- */
+
+
+.logo-one img{
+    height: 300px;
+    width: 350px;
+    position: relative;
+    bottom: 500px;
+    left: 540px;
+    
+}
+
